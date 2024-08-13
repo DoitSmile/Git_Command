@@ -1,8 +1,8 @@
 # Git_Command
 
 # git 깔고 초기 한번만 설정
-git config --global user.name "Your Name" : 전역 유저 이름설정
-git config --global user.email you@example.com: 전역 이메일 설정
+git config --global user.name <설정할이름> : 전역 유저 이름설정
+git config --global user.email <이메일>: 전역 이메일 설정
 
 
 # 새로운 프로젝트 만들고 반복 
